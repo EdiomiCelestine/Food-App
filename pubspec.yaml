@@ -68,6 +68,7 @@ flutter:
     - assets/food_categories/fast_food/
     - assets/popular_food/
     - assets/food_categories/food_categories_row/
+    - assets/screenshots/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
